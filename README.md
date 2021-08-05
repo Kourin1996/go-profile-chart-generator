@@ -3,8 +3,7 @@
 A tool to generate time series chart from profiles in Go.
 
 Sample result:
-![output](https://user-images.githubusercontent.com/19720977/128286993-cbb3aeb8-d836-48fe-8b49-b97534aaeb6f.png)
-
+![sample](https://user-images.githubusercontent.com/19720977/128287228-99bc3fac-7b21-40a1-81f5-f8a32abf1efd.png)
 
 ## Requirements
 + Python
