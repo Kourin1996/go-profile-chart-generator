@@ -6,6 +6,10 @@ Sample result:
 ![output](https://user-images.githubusercontent.com/19720977/128286993-cbb3aeb8-d836-48fe-8b49-b97534aaeb6f.png)
 
 
+## Requirements
++ Python
++ Golang
+
 ## How to start
 
 Need to collect profiles before use this tool (Please check: https://blog.golang.org/pprof)
