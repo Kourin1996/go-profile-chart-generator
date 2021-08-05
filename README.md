@@ -11,7 +11,7 @@ Sample result:
 
 ## How to start
 
-Need to collect profiles before use this tool (Please check: https://blog.golang.org/pprof)
+Please get profiles before use this tool (Please check: https://blog.golang.org/pprof)
 
 ```shell
 $ pip install -r requirements.txt
