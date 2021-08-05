@@ -1,10 +1,17 @@
 # go-profile-chart-generator
 
-A tool to generate time series chart from profiles in Go
+A tool to generate time series chart from profiles in Go.
+
+Sample result:
+![sample](https://user-images.githubusercontent.com/19720977/128287228-99bc3fac-7b21-40a1-81f5-f8a32abf1efd.png)
+
+## Requirements
++ Python
++ Golang
 
 ## How to start
 
-Need to collect profiles before use this tool (Please check: https://blog.golang.org/pprof)
+Please get profiles before use this tool (Please check: https://blog.golang.org/pprof)
 
 ```shell
 $ pip install -r requirements.txt
